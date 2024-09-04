@@ -1,0 +1,62 @@
+Player Name: Ash
+Caught Pokémons:
+- Snorlax (HP: 160, Attack: 110, Type: NORMAL)
+- Machamp (HP: 90, Attack: 130, Type: FIGHTING)
+- Muk (HP: 105, Attack: 105, Type: POISON)
+Score: 1000000
+
+Player Name: Ethan
+Caught Pokémons:
+- Snorlax (HP: 160, Attack: 110, Type: NORMAL)
+- Tauros (HP: 75, Attack: 100, Type: NORMAL)
+Score: 2000000
+
+Player Name: Gloria
+Caught Pokémons:
+- Porygon (HP: 65, Attack: 60, Type: NORMAL)
+- Hariyama (HP: 144, Attack: 120, Type: FIGHTING)
+Score: 8000000
+
+Player Name: Lucas
+Caught Pokémons:
+- Throh (HP: 120, Attack: 100, Type: FIGHTING)
+- Snorlax (HP: 160, Attack: 110, Type: NORMAL)
+Score: 4000000
+
+Player Name: Nate
+Caught Pokémons:
+- Dugtrio (HP: 35, Attack: 100, Type: GROUND)
+- Doduo (HP: 35, Attack: 85, Type: FLYING)
+Score: 3000000
+
+Player Name: Elaine
+Caught Pokémons:
+- Corvisquire (HP: 68, Attack: 67, Type: FLYING)
+- Sandshrew (HP: 50, Attack: 75, Type: GROUND)
+Score: 2000000
+
+Player Name: Victor
+Caught Pokémons:
+- Rookidee (HP: 38, Attack: 47, Type: FLYING)
+- Garbodor (HP: 80, Attack: 95, Type: POISON)
+Score: 0
+
+Player Name: Hilda
+Caught Pokémons:
+- Dugtrio (HP: 35, Attack: 100, Type: GROUND)
+- Swalot (HP: 100, Attack: 73, Type: POISON)
+Score: 0
+
+Player Name: Elio
+Caught Pokémons:
+- Garbodor (HP: 80, Attack: 95, Type: POISON)
+- Sandshrew (HP: 50, Attack: 75, Type: GROUND)
+Score: 0
+
+Player Name: Selene
+Caught Pokémons:
+- Sandslash (HP: 75, Attack: 100, Type: GROUND)
+- Tauros (HP: 75, Attack: 100, Type: NORMAL)
+Score: 0
+
+
